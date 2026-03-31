@@ -1,7 +1,7 @@
 #  Hi, I'm Chetraj Tamatta
 
-🎓 First Year B.Tech Student  
-💻 Aspiring Developer | Tech Enthusiast  
+ First Year B.Tech Student  
+ Aspiring Developer | Tech Enthusiast  
 
 
 ##  About Me
