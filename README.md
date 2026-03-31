@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Chetraj Tamatta
+#  Hi, I'm Chetraj Tamatta
 
 🎓 First Year B.Tech Student  
 💻 Aspiring Developer | Tech Enthusiast  
 
 
-## 🚀 About Me
-- 🌱 Currently learning programming and digital skills  
-- 💡 Interested in technology, coding, and problem-solving  
-- 🎯 Goal: To build strong technical skills and work on real-world projects  
+##  About Me
+-  Currently learning programming and digital skills  
+-  Interested in technology, coding, and problem-solving  
+-  Goal: To build strong technical skills and work on real-world projects  
 
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 - Basics of Python  
 - GitHub  
 - Google Workspace  
 - Canva  
 
 
-## 📚 Currently Exploring
+##  Currently Exploring
 - Programming fundamentals  
 - Data structures (beginner level)  
 - Open-source platforms  
@@ -29,7 +29,7 @@
 - Gain internship experience  
 - Improve problem-solving skills  
 
-⭐ *“Learning step by step and growing every day.”*
+ *“Learning step by step and growing every day.”*
 <!--
 **chetraj-cj/chetraj-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
